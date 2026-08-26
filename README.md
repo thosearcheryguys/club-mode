@@ -5,6 +5,7 @@ Club Mode is free, but please consider supporting its development [here.](Ko-fi.
 
 ---
 **System Requirements**
+
 The current beta supports:
 * Apple Silicon Macs (M1 or newer)
 * macOS 14 Sonoma or later
