@@ -14,9 +14,9 @@ The current beta (0.12.7) supports:
 Club Mode may not work correctly with older versions of rekordbox.
 
 **Installation**
-1. Download the ZIP from the latest release
-2. Open the ZIP and drag Club Mode.app into your Applications folder
-3. Open Club Mode
+1. Download the DMG from the latest release
+2. Open the DMG and drag Club Mode into your Applications folder
+3. Open Club Mode from Applications
 4. Follow the permissions guide
 5. Open rekordbox in Performance mode and select 2 Deck Horizontal
 
@@ -28,4 +28,4 @@ If an overlay does not appear:
 * Check both permissions under Club Mode → Settings
 * Quit and reopen Club Mode after granting Screen Recording permission
 * Make sure you are using a supported rekordbox version (7.2.16 or newer)
-* [Submit an issue]([url](https://github.com/thosearcheryguys/club-mode/issues)) for persistent problems
+* [Submit an issue](https://github.com/thosearcheryguys/club-mode/issues) for persistent problems
