@@ -6,7 +6,7 @@ Club Mode is free, but please consider supporting its development [here.](Ko-fi.
 ---
 **System Requirements**
 
-The current beta supports:
+The current beta (0.12.7) supports:
 * Apple Silicon Macs (M1 or newer)
 * macOS 14 Sonoma or later
 * rekordbox 7.2.16–7.2.18 
