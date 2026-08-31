@@ -11,7 +11,8 @@ Club Mode is free, but please consider supporting its development [here.](https:
 The current beta (v0.12.7) supports:
 * Apple Silicon Macs (M1 or newer)
 * macOS 14 Sonoma or later
-* rekordbox 7.2.16–7.2.18 
+* rekordbox 7.2.16–7.2.18
+* Edit: Blue & 3-Band waveform colours
 
 Club Mode may not work correctly with older versions of rekordbox.
 
