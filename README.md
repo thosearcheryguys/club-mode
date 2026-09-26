@@ -3,7 +3,7 @@ Club Mode is a Mac app which makes Rekordbox a better practice tool for DJs prep
 
 Club Mode is free, but please consider supporting its development [here.](https://ko-fi.com/thosearcheryguys)
 
-[Download Club Mode v0.12.18-beta](https://github.com/thosearcheryguys/club-mode/releases/download/v0.12.18-beta/ClubMode-0.12.18-beta.dmg)
+[Download Club Mode v0.12.18-beta](https://github.com/thosearcheryguys/club-mode/releases/tag/v0.12.18-beta)
 
 ---
 **System Requirements**
