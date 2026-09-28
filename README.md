@@ -5,10 +5,12 @@ Club Mode is free, but please consider supporting its development [here.](https:
 
 [Download Club Mode v0.12.18-beta](https://github.com/thosearcheryguys/club-mode/releases/tag/v0.12.18-beta)
 
+The separate release for Windows is a pre-release build intended for testers only. 
+
 ---
 **System Requirements**
 
-The current beta (v0.12.18) supports:
+The current Mac beta (v0.12.18) supports:
 * Apple Silicon Macs (M1 or newer)
 * macOS 14 Sonoma or later
 * rekordbox 7.2.16–7.2.18
