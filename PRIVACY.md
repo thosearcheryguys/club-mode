@@ -6,9 +6,9 @@ Club Mode is an independent project published by Tom Johnson under the name ARCH
 
 Contact: enquiries@archery-dj.com  
 
-Club Mode works locally on your Mac. It contains no analytics, advertising or tracking, and ARCHERY does not receive information about how you use the app.
+Club Mode works locally on your Mac or Windows computer. It contains no analytics, advertising or tracking, and ARCHERY does not receive information about how you use the app.
 
-Club Mode uses the following Mac permissions:
+Club Mode for Mac uses the following Mac permissions:
 
 - **Accessibility** to read rekordbox interface labels and positions
 - **Screen Recording** to process the rekordbox window for split waveforms and phase meters
