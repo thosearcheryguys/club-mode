@@ -7,7 +7,8 @@ Club Mode is free, but please consider supporting its development [here.](https:
 
 **Windows:** [Download Club Mode win-v0.1.41-beta](https://github.com/thosearcheryguys/club-mode/releases/tag/win-v0.1.41-beta)
 
----
+
+
 ## Mac Version Info
 
 (Windows info further below 👇)
@@ -38,7 +39,8 @@ If an overlay does not appear:
 * Make sure you are using a supported rekordbox version (7.2.16 or newer)
 * [Submit an issue](https://github.com/thosearcheryguys/club-mode/issues) for persistent problems, including the output from Settings → Copy diagnostics
 
----
+
+
 ## Windows Version Info
 
 **System Requirements**
